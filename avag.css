@@ -1,0 +1,12 @@
+.parent-div {
+  height: 100vh;
+}
+.input-parent {
+  height: 250px;
+}
+.close:hover {
+  background: rgb(250, 242, 9);
+}
+.avag:hover {
+  background-color: rgb(12, 185, 212);
+}
